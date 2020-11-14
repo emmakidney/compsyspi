@@ -11,9 +11,9 @@ ones life solely in pictures. For an added retro-feel, a thermal printer can be 
 simulating a Polaroid camera. 
 
 **Tools, Technologies and Equipment**
-•	Raspberry Pi 3 B+
-•	Raspberry Pi Camera Module V2
-•	Push Buttons Switches
-•	Mini Thermal Printer Module
-•	Linux
-•	Python
+* Raspberry Pi 3 B+
+*	Raspberry Pi Camera Module V2
+*	Push Buttons Switches
+*	Mini Thermal Printer Module
+*	Linux
+*	Python
