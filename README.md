@@ -10,7 +10,7 @@ a disposable camera, where you have cannot change photos once they are taken. It
 ones life solely in pictures. For an added retro-feel, a thermal printer can be introduced to print the photos once they are taken, 
 simulating a Polaroid camera. 
 
-**Tools, Technologies and Equipment**
+**Tools, Technologies and Equipment:**
 * Raspberry Pi 3 B+
 *	Raspberry Pi Camera Module V2
 *	Push Buttons Switches
