@@ -15,3 +15,7 @@ ones life solely in pictures.
 *	Push Buttons Switches
 *	Linux
 *	Python
+
+
+![image](https://raw.githubusercontent.com/emmakidney/compsyspi/main/A8F29DBB-AF19-43F1-B4C9-380FFAB089EF.png)
+
