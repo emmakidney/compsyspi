@@ -20,3 +20,6 @@ ones life solely in pictures.
 ![image](https://raw.githubusercontent.com/emmakidney/compsyspi/main/A8F29DBB-AF19-43F1-B4C9-380FFAB089EF.png)
 
 
+# Errors #
+![image](https://raw.githubusercontent.com/emmakidney/compsyspi/main/3D9C5E2F-DAB9-4BE8-9870-C96CB90C032F.png)
+
